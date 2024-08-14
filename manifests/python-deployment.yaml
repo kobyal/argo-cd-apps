@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-hello-world
-        image: 599843985030.dkr.ecr.eu-west-1.amazonaws.com/hello-world:1.1
+        image: 599843985030.dkr.ecr.eu-west-1.amazonaws.com/hello-world:1.2
         ports:
         - containerPort: 80
